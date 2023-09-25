@@ -1,20 +1,18 @@
  # Asra's Report
  Date:
-1402/07/01
+1402/07/02
  # Overview and Abstract
 
-
  # Task Details
- responsive videos review
- doing mini project for responsive
+5 videos of final project watched
 
  # Challengs
  no challengs
 
 
  # Next steps
- doing css&html final project
+ finish tje final project
  
 
  # Consulusion 
- no conclusion
+ deadlines push me doing better in a short times
