@@ -5,7 +5,7 @@
  part of sections done
 
  # Task Details
-4 videos of final project watched(sorry
+3 videos of final project watched(sorry
 i got mistake on yesterday report ,
 wrote total ep i watched and actully yesterday i watched 3 videos and today 4 videos)
 9h worked today
