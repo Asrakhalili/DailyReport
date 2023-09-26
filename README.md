@@ -1,17 +1,15 @@
  # Asra's Report
  Date:
-1402/07/03
+1402/07/04
  # Overview and Abstract
  part of sections done
 
- # Task Details
-3 videos of final project watched(sorry
-i got mistake on yesterday report ,
-wrote total ep i watched and actully yesterday i watched 3 videos and today 4 videos)
-9h worked today
+ # Task Details 
+ i did the most of codes that was related to videos 1-6
+
 
  # Challengs
- i tought if i do work 6h a day on this it'll be done but it takes more time 
+no challengs
  
  
  
@@ -19,7 +17,6 @@ wrote total ep i watched and actully yesterday i watched 3 videos and today 4 vi
 
  # Next steps
  finish the final project
- i tried the best  to finish it and spend the hole time on
  
 
  # Consulusion 
