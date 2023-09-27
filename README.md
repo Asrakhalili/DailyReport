@@ -1,16 +1,17 @@
  # Asra's Report
  Date:
-1402/07/04
+1402/07/05
  # Overview and Abstract
  part of sections done
 
  # Task Details 
- i did the most of codes that was related to videos 1-6
-
+ mostly dibug and review what i did
+ 
+ 
+ 
 
  # Challengs
-no challengs
- 
+i had a lot of bugs on responsive & and it take so time and
  
  
 
@@ -20,4 +21,4 @@ no challengs
  
 
  # Consulusion 
- deadlines push me doing better in a short times
+ no conclusion
