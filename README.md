@@ -1,18 +1,19 @@
  # Asra's Report
  Date:
-1402/07/08
+1402/07/09
  # Overview and Abstract
-
+feel experience of creating motivate me
 
  # Task Details 
-eight episode of finial project done
+10 episode of finial project done
+finnished the section part
  
  
  
  
 
- # Challengs
- reviewing code.i  shoul be more carefully in review.
+ # Challengs 
+ no challengs today
  
 
 
@@ -21,4 +22,4 @@ finish html &css course
  
 
  # Consulusion 
-take a little break  regular helps ,e doing better
+ no conclusion
