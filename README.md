@@ -1,24 +1,24 @@
  # Asra's Report
  Date:
-1402/07/05
+1402/07/08
  # Overview and Abstract
- part of sections done
+
 
  # Task Details 
- mostly dibug and review what i did
+eight episode of finial project done
+ 
  
  
  
 
  # Challengs
-i had a lot of bugs on responsive & and it take so time and
- 
+ reviewing code.i  shoul be more carefully in review.
  
 
 
  # Next steps
- finish the final project
+finish html &css course
  
 
  # Consulusion 
- no conclusion
+take a little break  regular helps ,e doing better
