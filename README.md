@@ -1,12 +1,11 @@
  # Asra's Report
  Date:
-1402/07/09
+1402/07/16
  # Overview and Abstract
-feel experience of creating motivate me
+
 
  # Task Details 
-10 episode of finial project done
-finnished the section part
+start new project 
  
  
  
@@ -18,7 +17,7 @@ finnished the section part
 
 
  # Next steps
-finish html &css course
+finish navbar 
  
 
  # Consulusion 
