@@ -1,13 +1,12 @@
  # Asra's Report
  Date:
-1402/07/18
+1402/07/19
  # Overview and Abstract
 
 
  # Task Details 
-two section of project done with respnsive
-searching about flexes
- 
+third section of project done with flexes
+and learning git 
  
  
  
