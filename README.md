@@ -1,23 +1,24 @@
  # Asra's Report
  Date:
-1402/07/16
+1402/07/18
  # Overview and Abstract
 
 
  # Task Details 
-start new project 
+two section of project done with respnsive
+searching about flexes
  
  
  
  
 
  # Challengs 
- no challengs today
+i got two challengs in js function
  
 
 
  # Next steps
-finish navbar 
+finish project
  
 
  # Consulusion 
