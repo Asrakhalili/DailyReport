@@ -1,23 +1,22 @@
  # Asra's Report
  Date:
-1402/07/19
+1402/07/22
  # Overview and Abstract
 
 
  # Task Details 
-third section of project done with flexes
-and learning git 
- 
+3 section of project done and footer left
+i work 5h today
+
  
  
 
  # Challengs 
-i got two challengs in js function
- 
+
 
 
  # Next steps
-finish project
+finish footer start jqueary
  
 
  # Consulusion 
