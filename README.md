@@ -1,11 +1,11 @@
  # Asra's Report
  Date:
-1402/07/23
+1402/07/24
  # Overview and Abstract
 
 
  # Task Details 
-land box project get done and whatched 2 episode of jq
+just 3 videos of jq
 
  
  
