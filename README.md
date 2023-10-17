@@ -1,12 +1,11 @@
  # Asra's Report
  Date:
-1402/07/22
+1402/07/23
  # Overview and Abstract
 
 
  # Task Details 
-3 section of project done and footer left
-i work 5h today
+land box project get done and whatched 2 episode of jq
 
  
  
@@ -16,7 +15,7 @@ i work 5h today
 
 
  # Next steps
-finish footer start jqueary
+ finish jqueary
  
 
  # Consulusion 
