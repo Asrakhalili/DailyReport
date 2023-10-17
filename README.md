@@ -1,18 +1,17 @@
  # Asra's Report
  Date:
-1402/07/24
+1402/07/25
  # Overview and Abstract
 
 
  # Task Details 
-just 3 videos of jq
+5 videos whatched
 
  
  
 
  # Challengs 
-
-
+no challeng
 
  # Next steps
  finish jqueary
