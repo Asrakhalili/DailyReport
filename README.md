@@ -1,17 +1,16 @@
  # Asra's Report
  Date:
-1402/07/29
+1402/07/30
  # Overview and Abstract
 
 
  # Task Details 
-7 videosof jq whatched and it was about getser,add remove,animation,demenetions
-
+5 videos (traversing) of jq whatched and two miniproject about accordion menu done
  
  
 
  # Challengs 
-no challeng
+no challenge
 
  # Next steps
  finish jqueary and start css frame work in time
