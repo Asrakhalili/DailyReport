@@ -1,22 +1,18 @@
  # Asra's Report
  Date:
-1402/08/1
+1402/08/3
  # Overview and Abstract
 
 
  # Task Details 
- today i had  just 3h to work and i whathed 2 videos of jq and 6 videos remain 
-
+i had 5h for working and i whatched 3videos of jq and mini modal project done
  
 
  # Challengs 
- unfortunatly crossed the dl
-it doesnt  mean i didnt work its about it gets time to handle univrcity plan and work 
-,i will try my best to fix it better and sooner
+no challengs
 
  # Next steps
- finish jqueary and start css frame work 
-tommorow i will work remote  bc i have classes till 6pm
+ finish jqueary  in weekend and start jq projects
  
 
  # Consulusion 
