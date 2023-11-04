@@ -1,18 +1,18 @@
  # Asra's Report
  Date:
-1402/08/3
+1402/08/13
  # Overview and Abstract
 
 
- # Task Details 
-i had 5h for working and i whatched 3videos of jq and mini modal project done
- 
+ # Task Details &csss done
+ appering searchbox with jq get done
+
 
  # Challengs 
 no challengs
 
  # Next steps
- finish jqueary  in weekend and start jq projects
+ finish digikala-navbar
  
 
  # Consulusion 
