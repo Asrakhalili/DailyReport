@@ -1,15 +1,16 @@
  # Asra's Report
  Date:
-1402/08/13
+1402/08/14
  # Overview and Abstract
 
 
  # Task Details &csss done
- appering searchbox with jq get done
+menubar items css&html get done
+two items(mobileitems_electronic tools) css&html get done
 
 
  # Challengs 
-no challengs
+got some challeng in jq and im rewhatching some  parts
 
  # Next steps
  finish digikala-navbar
