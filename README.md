@@ -1,12 +1,11 @@
                # Asra's Report
  Date:
-1402/08/15
+1402/08/17
  # Overview and Abstract
 
 
  # Task Details &csss done
-search box jq's challengs done 
-r7d aboout jq events
+reasearching and dibug
 
 
  # Challengs 
